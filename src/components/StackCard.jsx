@@ -76,9 +76,6 @@ export const StackCard = () => {
                                     <div className="iconContainerBlue">
                                         <img src={react} alt="Imagem 1" />
                                     </div>
-                                    <div className="iconContainerGreen">
-                                        <img src={vue} alt="Imagem 1" />
-                                    </div>
                                 </div>
                             </p>
                         </div>
@@ -120,9 +117,6 @@ export const StackCard = () => {
                                 <div className="iconContainerBlue">
                                         <img src={mysql} alt="Imagem 1" />
                                     </div>
-                                    <div className="iconContainerBlue">
-                                        <img src={postgres} alt="Imagem 1" />
-                                    </div>
                                 </div>
                             </p>
                         </div>
@@ -148,7 +142,6 @@ export const StackCard = () => {
                                 <li>Trello</li>
                                 <li>Miro - UML Diagram</li>
                                 <li>Spring Initialzr</li>
-                                <li>Docker</li>
                             </ul>
                         </div>
                     </div>
