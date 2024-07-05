@@ -27,7 +27,7 @@ export const Introduction = () => {
         <div>
             <CurriculumButton text="Baixar Currículo" />
 
-            <a href="https://drive.google.com/file/d/1FL3-V7uI5R_gBZee6L2ifwTQnk61bjFw/view?usp=drive_link" target="_blank"><button className='view_link'>Visualizar currículo</button></a>
+            <a href="https://drive.google.com/file/d/1m4g569w4hJjVYqXyDWJpGnykZ7lxmp8J/view?usp=drive_link" target="_blank"><button className='view_link'>Visualizar currículo</button></a>
         </div>
         <img src={programmer} className='programmer' />
 
