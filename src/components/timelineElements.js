@@ -26,7 +26,7 @@ let timelineElements = [
     description:
       "Conhecimentos em processos de negócios, empreendedorismo, criação de sistemas completos, e conhecimento mais afundo de analise completa de sistemas.",
     buttonText: "university",
-    date: "Fevereiro 2023 - cursando",
+    date: "Fevereiro 2023 - julho 2024",
     icon: "school",
   },
   {
@@ -36,7 +36,7 @@ let timelineElements = [
     description:
       "Auxilio na configuração de equipamentos e elaboração de e-mail planilhas e relatórios, conferir documentos, análises gerenciais e manutenção de computadores e softwares.",
     buttonText: "job",
-    date: "Fevereiro 2023 - atual",
+    date: "Fevereiro 2023 - julho 2024",
     icon: "work",
   },
   {
